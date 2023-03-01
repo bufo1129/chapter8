@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 960px;
+}
+
+li:nth-child(odd) {
+  background-color: gainsboro;
+}
+
+.list-item {
+  padding: 50px;
+  list-style: none;
+}
+
+.item1 {
+  padding: 20px;
+}
+
+.item2 {
+  padding: 20px;
+}
+
+.item3 {
+  padding: 20px;
+}
+
+.item4 {
+  padding: 20px;
+}
+
+.item5 {
+  padding: 20px;
+}
+
+.item6 {
+  padding: 20px;
+}
+
+.item7 {
+  padding: 20px;
+}
+
+.box {
+  width: 960px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box1 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
+
+.box2 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box3 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box4 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box5 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
+
+.box6 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box7 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box8 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box9 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
